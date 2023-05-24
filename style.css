@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .logo {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
